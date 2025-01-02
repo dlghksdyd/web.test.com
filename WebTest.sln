@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "WebTest", "WebTest\WebTest.njsproj", "{7DBAABF5-F117-43BA-8332-A6E5F16A664A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DBAABF5-F117-43BA-8332-A6E5F16A664A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DBAABF5-F117-43BA-8332-A6E5F16A664A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DBAABF5-F117-43BA-8332-A6E5F16A664A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DBAABF5-F117-43BA-8332-A6E5F16A664A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
